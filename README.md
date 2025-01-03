@@ -16,8 +16,8 @@ Sigue estos pasos para instalar el juego en tu máquina:
 1. Clona este repositorio a tu máquina local:
 
     ```bash
-    git clone https://github.com/tu_usuario/tu_repositorio.git
-    cd tu_repositorio
+    git clone https://github.com/dadd86/JuegoRompeCajas.git
+    cd JuegoRompeCajas
     ```
 
 2. Instala las dependencias necesarias:
