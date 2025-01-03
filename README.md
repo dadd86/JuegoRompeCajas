@@ -59,6 +59,4 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 ## Capturas de pantalla
 
-Si deseas agregar capturas de pantalla del juego, puedes hacerlo para dar una mejor idea de cómo se ve el juego. Puedes usar la siguiente sintaxis en Markdown:
-
-```markdown<picture><img src="https://github.com/dadd86/JuegoRompeCajas/raw/main/imagenes/RompeLasCajas.png" width="50px"></picture>
+<picture><img src="https://github.com/dadd86/JuegoRompeCajas/raw/main/imagenes/RompeLasCajas.png" width="50px"></picture>
